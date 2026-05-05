@@ -15,7 +15,7 @@ This repository serves as a professional portfolio to demonstrate technical writ
 ### 🛠️ Documentation Modules
 *   **[User Guide](./USER_GUIDE.md)**: Operational workflow for Drivers and Fleet Admins.
 *   **[System Flow](./SYSTEM_FLOW.md)**: Logic mapping of task statuses and diagrams to explain data migration between modules.
-*   **[Status Lifecycle & Glossary](./GLOSSARY.md)**: Definition of technical terms and software statuses (e.g., *CMS, Dropdown, Widget*).
+*   **[Glossary](./GLOSSARY.md)**: Definition of technical terms and software statuses (e.g., *CMS, Dropdown, Widget*).
 
 ### 🚀 Technical Writing Approach
 *   **Visual Documentation**: Leveraging diagrams to explain complex hauling transitions and checkpoint flows.
@@ -35,7 +35,7 @@ Repository ini berfungsi sebagai portofolio profesional untuk menunjukkan keahli
 ### 🛠️ Modul Dokumentasi
 *   **[Panduan Pengguna](./USER_GUIDE.md)**: Alur kerja operasional untuk Driver dan Admin Armada.
 *   **[Alur Sistem](./SYSTEM_FLOW.md)**: Pemetaan logika status tugas dan diagram untuk menjelaskan perpindahan data antar modul.
-*   **[Glosarium & Status](./GLOSSARY.md)**: Definisi istilah teknis dan status perangkat lunak (contoh: *CMS, Dropdown, Widget*).
+*   **[Glosarium](./GLOSSARY.md)**: Definisi istilah teknis dan perangkat lunak (contoh: *CMS, Dropdown, Widget*).
 
 ### 🚀 Pendekatan Dokumentasi
 *   **Dokumentasi Visual**: Menggunakan diagram untuk menjelaskan transisi hauling dan alur checkpoint yang kompleks.
