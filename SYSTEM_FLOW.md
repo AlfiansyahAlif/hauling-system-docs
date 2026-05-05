@@ -5,7 +5,7 @@
 ---
 
 <a name="english"></a>
-## 🇺🇸 English Version
+## English Version
 
 ### 1. Pre-Operational Flow: Registration & Onboarding
 Before the hauling process begins, the system establishes a secure foundation through entity registration to ensure every data point in the field is traceable.
@@ -51,7 +51,7 @@ sequenceDiagram
 ---
 
 <a name="bahasa-indonesia"></a>
-## 🇮🇩 Versi Bahasa Indonesia
+## Versi Bahasa Indonesia
 
 ### 1. Alur Pra-Operasional: Registrasi & Onboarding
 Sebelum proses pengangkutan dimulai, sistem membangun landasan yang aman melalui registrasi entitas untuk memastikan setiap titik data di lapangan dapat dilacak secara akurat.
